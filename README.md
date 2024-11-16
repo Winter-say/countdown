@@ -13,6 +13,10 @@ If you need a preview, you can download an HTML file
 
 如果你需要预览可以下载html文件
 
+# 图片 picture
+
+
 
 ﻿ 
-﻿
+﻿![Screenshot 2024-11-12 190720](https://github.com/user-attachments/assets/93883e2f-951b-43e6-b684-58af328b02c5)
+

@@ -16,9 +16,6 @@ If you need a preview, you can download an HTML file
 # 图片 picture
 
 
-
-﻿ 
-﻿![Screenshot 2024-11-12 190720](https://github.com/user-attachments/assets/93883e2f-951b-43e6-b684-58af328b02c5)
  
 
 ![Screenshot 2024-11-17 152001](https://github.com/user-attachments/assets/0c1eb783-2c61-49e1-acf1-997188e0fece)

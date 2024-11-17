@@ -20,7 +20,7 @@ setInterval(() => {
     var currentDate = new Date()
     var res = diffTime(currentDate,targetDate)
     //#listtime is page name(class or id)
-    document.querySelector("#leasttime").innerHTML = `时间剩余${res.day}天${res.hours}时${res.minutes}分${res.seconds}秒`
+    document.querySelector("#leasttime").innerHTML = `时间剩余(Time remaining)${res.day}天(day)${res.hours}时(hours)${res.minutes}分(minutes)${res.seconds}秒(seconds)`
 }, 1000);
 // setTimeout(() => {
 //     console.log(currentDate,targetDate)
